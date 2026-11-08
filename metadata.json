@@ -1,0 +1,6 @@
+{
+  "name": "NOOM WEAR | Egyptian Luxury Sleepwear & Pajamas",
+  "description": "Comfort Meets Elegance. Discover NOOM WEAR's luxury satin sleepwear, everyday comfort sets, and matching mother-daughter collections handcrafted in Egypt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
